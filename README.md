@@ -13,5 +13,5 @@ LINK TO LIVE PROJECT:
 
 https://melinamboedecker.github.io/ActivitySelector/
 
-![Screenshot of the operational website.](assets/WebsiteScreenshot.JPG)
+![Screenshot of the operational website.](assets/ScreenshotActivitySelector.png)
 
