@@ -15,3 +15,7 @@ https://melinamboedecker.github.io/ActivitySelector/
 
 ![Screenshot of the operational website.](assets/ScreenshotActivitySelector.png)
 
+## License
+Copyright (c) 2021 Melina Boedecker
+Licensed under the MIT license.
+
